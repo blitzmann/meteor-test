@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ryan.Holmes\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\Ryan.Holmes\simple-todos\.meteor\local\cordova-build\platforms\android\build\intermediates\pre-dexed\debug\okhttp-3.1.2_6a22d3f8be08d84d03b6ca6aeb7bc41086fa1862.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan.Holmes\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Ryan.Holmes\simple-todos\.meteor\local\cordova-build\platforms\android\build\intermediates\pre-dexed\debug\okio-1.6.0_9ad987043bb519bd7f20ad539ccf592ff2cb272e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan.Holmes\simple-todos\.meteor\local\cordova-build\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="3d0c47f9dc6762d3d7c902fa67efa5ec4d9dc54d">
+        <dex dex="C:\Users\Ryan.Holmes\simple-todos\.meteor\local\cordova-build\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_eef3d74428588ca4d120ef0987337bfb4ac5a59a.jar" />
+    </item>
+
+</items>
